@@ -1,0 +1,19 @@
+{
+    "webhook": {
+        "name": ""
+    },
+    "sounds": {
+        "up": "sounds/up.wav",
+        "down": "sounds/down.wav"
+    },
+    "images": {
+        "normal": "images/status-default.png",
+        "up": "images/status-up.png",
+        "down": "images/status-down.png"
+    },
+    "text": {
+        "normal": "All systems are functional",
+        "up": "Up",
+        "down": "Down"
+    }
+}
